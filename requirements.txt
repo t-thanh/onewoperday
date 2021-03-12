@@ -7,7 +7,7 @@ cryptography
 idna 
 mkl-fft
 mkl-random
-mkl-service
+#mkl-service
 numpy 
 pandas
 pycparser 
