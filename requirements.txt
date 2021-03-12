@@ -1,3 +1,4 @@
+python==3.7.10
 beautifulsoup4 
 brotlipy==0.7.0
 certifi==2020.12.5
